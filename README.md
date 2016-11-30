@@ -1,1 +1,0 @@
-# vRO-vCenter-6-Tagging-plug-in
